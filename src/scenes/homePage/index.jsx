@@ -1,6 +1,10 @@
+import Navbar from '../navbar/index'
+
 const HomePage = () => {
     return (
-        <div>HomePage</div>
+        <div>
+            <Navbar />
+        </div>
     )
 }
 
